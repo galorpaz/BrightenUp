@@ -2,22 +2,25 @@
 <html>
 <head>
     <title></title>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
+    <script src="scripts/angular.min.js"></script>
+    <script src="scripts/Angular/BrightenUp/brightenUp.module.js"></script>
+    <script src="scripts/Angular/BrightenUp/brightenUp.config.js"></script>
+    <script src="scripts/Angular/Events/events.module.js"></script>
+    <script src="scripts/Angular/Login/login.module.js"></script>
+    <script src="scripts/Angular/Login/controllers/login.controller.js"></script>
 </head>
 
 
-<body>
+<body ng-app ="BrightenUp">
+    <div ng-view>
 
+    </div>
 
-    <script src="scripts/angular.min.js"></script>
-    <script src="scripts/Angular/BrightenUp/brightenUp.module.js"></script>
-    <script src="scripts/Angular/Events/events.module.js"></script>
-    <script src="scripts/Angular/Login/login.module.js"></script>
+    
 
 </body>
 
-<ng-view>
 
-</ng-view>
 
 </html>

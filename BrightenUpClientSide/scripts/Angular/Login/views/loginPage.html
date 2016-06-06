@@ -1,5 +1,10 @@
 ﻿<div>
-    <div>
-        
-    </div>
+    <form novalidate class="simple-form">
+        E-mail: <input type="email" ng-model="user.email" /><br />
+        Password: <input type="text" ng-model="user.password" /><br />
+        <input type="button" ng-click="login(user)" value="Sign Up" />
+        <input type="submit" ng-click="login(user)" value="Save"/>
+        <span ng-show ="showBadPassword">Wrong Mail Or Password</span>
+    </form>
 </div>
+
