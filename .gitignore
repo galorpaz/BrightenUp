@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 *.cache
+=======
+*.cache
+BrightenUpClientSide/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.suo
+BrightenUpClientSide/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+*.suo
+>>>>>>> refs/remotes/origin/event-module
+*.cache
+.vs/BrightenUp/v14/.suo
+*.cache
+.vs/BrightenUp/v14/.suo
