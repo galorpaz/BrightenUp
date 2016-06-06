@@ -31,6 +31,7 @@ C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\bin\Micr
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.csprojResolveAssemblyReference.cache
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.dll
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.pdb
+<<<<<<< HEAD
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\bin\ApplicationInsights.config
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\bin\roslyn\csc.exe
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -64,3 +65,7 @@ C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\bin\Microsoft.CodeDom.Provi
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.csprojResolveAssemblyReference.cache
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.dll
 C:\Users\dshwarzzman\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.pdb
+=======
+C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\bin\scripts\angular.min.js
+C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\bin\scripts\Angular\Login\login.module.js
+>>>>>>> refs/remotes/origin/event-module

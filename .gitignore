@@ -7,8 +7,14 @@ BrightenUpClientSide/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 BrightenUpClientSide/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
 *.suo
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/event-module
 *.cache
 .vs/BrightenUp/v14/.suo
 *.cache
 .vs/BrightenUp/v14/.suo
+=======
+*.suo
+*.suo
+.vs/config/applicationhost.config
+>>>>>>> refs/remotes/origin/event-module
