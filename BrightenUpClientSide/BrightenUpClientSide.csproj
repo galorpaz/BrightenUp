@@ -99,6 +99,10 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
+    <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
+    <Content Include="scripts\Angular\Login\login.module.js" />
+    <Content Include="scripts\Angular\Login\views\loginPage.html" />
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" />
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" />
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.css.map" />
@@ -117,21 +121,14 @@
   <ItemGroup>
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-<<<<<<< HEAD
     <Content Include="scripts\angular.min.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
     <Content Include="scripts\Angular\Events\controllers\events.controller.js" />
     <Content Include="scripts\Angular\Events\events.module.js" />
     <Content Include="scripts\Angular\Events\templates\createNewEvent.html" />
     <Content Include="scripts\Angular\Events\templates\event.html" />
     <Content Include="scripts\Angular\Events\templates\events.html" />
-    <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
-    <Content Include="scripts\Angular\Login\events.service.js" />
-    <Content Include="scripts\Angular\Login\login.module.js">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.css" />
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css" />
     <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.css" />
@@ -140,23 +137,16 @@
     <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.js" />
     <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.min.js" />
     <Content Include="scripts\bootstrap-3.3.6-dist\js\npm.js" />
-=======
     <Content Include="scripts\angular.min.js" />
-    <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
+    <Content Include="scripts\Angular\BrightenUp\brightenUp.config.js" />
     <Content Include="scripts\Angular\BrightenUp\brightenUpApi.js" />
     <Content Include="scripts\Angular\Events\events.module.js" />
-    <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
-    <Content Include="scripts\Angular\Login\login.module.js" />
-    <Content Include="scripts\Angular\Login\views\loginPage.html" />
->>>>>>> refs/remotes/origin/loginBranch
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="scripts\Angular\Login\templates\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

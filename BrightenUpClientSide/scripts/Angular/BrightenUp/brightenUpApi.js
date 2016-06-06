@@ -1,5 +1,5 @@
-﻿var brightenUpApi = ['$http', function($http) {
-    function()
+﻿//var brightenUpApi = ['$http', function($http) {
+  //  function()
 
 
-}]
+//}]

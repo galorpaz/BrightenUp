@@ -1,4 +1,0 @@
-﻿(function () {
-    angular.module('Login', [
-    ]);
-})();

@@ -32,4 +32,3 @@ C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debu
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.dll
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\obj\Debug\BrightenUpClientSide.pdb
 C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\bin\scripts\angular.min.js
-C:\Users\gpaz.LUZ2\Workspace\BrightenUp\BrightenUp\BrightenUpClientSide\bin\scripts\Angular\Login\login.module.js
