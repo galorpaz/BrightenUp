@@ -115,7 +115,11 @@
     <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
     <Content Include="scripts\Angular\Events\controllers\events.controller.js" />
     <Content Include="scripts\Angular\Events\events.module.js" />
+    <Content Include="scripts\Angular\Events\templates\createNewEvent.html" />
+    <Content Include="scripts\Angular\Events\templates\event.html" />
+    <Content Include="scripts\Angular\Events\templates\events.html" />
     <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
+    <Content Include="scripts\Angular\Login\events.service.js" />
     <Content Include="scripts\Angular\Login\login.module.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -125,8 +129,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="scripts\Angular\Events\templates\" />
     <Folder Include="scripts\Angular\Login\templates\" />
+    <Folder Include="scripts\bootstrap-3.3.6-dist\css\" />
+    <Folder Include="scripts\bootstrap-3.3.6-dist\fonts\" />
+    <Folder Include="scripts\bootstrap-3.3.6-dist\js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
