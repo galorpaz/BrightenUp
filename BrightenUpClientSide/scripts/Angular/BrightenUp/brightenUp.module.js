@@ -2,6 +2,7 @@
     'use strict';
     debugger;
     angular.module('BrightenUp', [
-    'ngRoute'
+    'ngRoute',
+    'Login'
     ]);
 })();

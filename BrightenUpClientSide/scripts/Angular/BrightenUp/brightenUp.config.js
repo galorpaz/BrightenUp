@@ -3,7 +3,9 @@
     angular
         .module('BrightenUp')
         .config(configFunc);
+
     configFunc.$inject = ['$routeProvider'];
+
     function configFunc($routeProvider) {
         debugger;
         console.log($routeProvider);

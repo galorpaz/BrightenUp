@@ -99,6 +99,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="scripts\angular-route.js" />
+    <Content Include="scripts\angular-route.min.js" />
     <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
     <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
     <Content Include="scripts\Angular\Login\login.module.js" />
@@ -111,6 +113,7 @@
     <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="scripts\angular-route.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

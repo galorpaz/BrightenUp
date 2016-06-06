@@ -1,7 +1,11 @@
 ﻿(function() {
-    angular.module('Login').controller('loginCtrl', loginCtrl);
+    angular
+        .module('Login')
+        .controller('loginCtrl', loginCtrl);
 
-    function loginCtrl() {
+    loginCtrl.$inject = ['$scope', '$http'];
+
+    function loginCtrl($scope, $http) {
         $scope.showBadPassword = false;
         $http.post('api/login', { 'mail': $scope.user.mail, "password": $scope.user.password })
             .then(function(response) {
