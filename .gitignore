@@ -5,3 +5,5 @@ BrightenUpClientSide/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
 *.suo
 *.suo
+*.suo
+.vs/config/applicationhost.config
