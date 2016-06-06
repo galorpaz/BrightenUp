@@ -99,6 +99,14 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.css.map" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.min.css.map" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -123,6 +131,14 @@
     <Content Include="scripts\Angular\Login\login.module.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.css" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap-theme.min.css" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.css" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\css\bootstrap.min.css" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.js" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.min.js" />
+    <Content Include="scripts\bootstrap-3.3.6-dist\js\npm.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -130,9 +146,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="scripts\Angular\Login\templates\" />
-    <Folder Include="scripts\bootstrap-3.3.6-dist\css\" />
-    <Folder Include="scripts\bootstrap-3.3.6-dist\fonts\" />
-    <Folder Include="scripts\bootstrap-3.3.6-dist\js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
