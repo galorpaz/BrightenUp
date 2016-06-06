@@ -117,7 +117,6 @@
   <ItemGroup>
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-<<<<<<< HEAD
     <Content Include="scripts\angular.min.js" />
     <Content Include="scripts\Angular\BrightenUp\brightenUp.config.js" />
     <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
@@ -126,7 +125,6 @@
     <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
     <Content Include="scripts\Angular\Login\login.module.js" />
     <Content Include="scripts\Angular\Login\views\loginPage.html" />
-=======
     <Content Include="scripts\angular.min.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -149,7 +147,6 @@
     <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.js" />
     <Content Include="scripts\bootstrap-3.3.6-dist\js\bootstrap.min.js" />
     <Content Include="scripts\bootstrap-3.3.6-dist\js\npm.js" />
->>>>>>> refs/remotes/origin/event-module
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
