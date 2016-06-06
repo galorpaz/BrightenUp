@@ -108,6 +108,12 @@
   <ItemGroup>
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
+    <Content Include="scripts\angular.min.js" />
+    <Content Include="scripts\Angular\BrightenUp\brightenUp.module.js" />
+    <Content Include="scripts\Angular\Events\events.module.js" />
+    <Content Include="scripts\Angular\Login\controllers\login.controller.js" />
+    <Content Include="scripts\Angular\Login\login.module.js" />
+    <Content Include="scripts\Angular\Login\views\loginPage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
